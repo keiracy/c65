@@ -1,0 +1,22 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#mycarousel
+{
+    background-color: red;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+
+}
+
+
